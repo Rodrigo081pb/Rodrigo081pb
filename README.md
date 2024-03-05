@@ -1,21 +1,4 @@
 
-<p align="center">
-  <img width="300px" src="https://i.pinimg.com/736x/22/73/95/227395b79c33f1829eb7624b2022645b.jpg" />
-</p>
-
-&nbsp;&nbsp;&nbsp;
-
-
-
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From frontend development using Angular, I have a <strong>passion for discovering new things</strong> and using them to create high-quality solutions.</strong></p>&nbsp;
-
- 
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
