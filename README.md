@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-<img src="https://i.imgur.com/w9ZiJkb.jpeg" min-width="150px" max-width="150px" width="150px" align="right" alt="Imagem Pinterest">
+<img src="https://i.imgur.com/w9ZiJkb.jpeg" min-width="180px" max-width="180px" width="180px" align="right" alt="Imagem Pinterest">
 
 #### Studying in this moment:
 
