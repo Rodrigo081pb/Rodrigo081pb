@@ -20,7 +20,7 @@
 
 #### Studying in this moment:
 
-![tps://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=gnu&logoColor=white&nbsp;
+![COBOL](https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=cobol&logoColor=white)&nbsp;
 
 
 #### Databases:
