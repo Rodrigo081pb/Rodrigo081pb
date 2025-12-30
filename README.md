@@ -21,7 +21,7 @@
 #### Studying in this moment:
 
 ![COBOL](https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=cobol&logoColor=white)&nbsp;
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### Databases:
 
